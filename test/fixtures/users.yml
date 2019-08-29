@@ -3,7 +3,11 @@
 one:
   name: MyString
   email: MyString
+  post: 
+  comment: 
 
 two:
   name: MyString
   email: MyString
+  post: 
+  comment: 
